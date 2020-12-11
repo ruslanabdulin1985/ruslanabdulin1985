@@ -1,5 +1,7 @@
 ### Hi there 👋
+My name is Ruslan Abdulin
 
+Welcome to my page!
 <!--
 **ruslanabdulin1985/ruslanabdulin1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
